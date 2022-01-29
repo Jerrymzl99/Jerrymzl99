@@ -7,7 +7,6 @@
                 <b><a target="_blank" href="https://https://jerrymzl99.github.io/Personal_Web/">Zhelu Mai Jerry.</a></b>
         </samp>
 </h3>
-<br>
 
 #### I am an avid business insights, Machine learning,and NLP enthusiast.
 
