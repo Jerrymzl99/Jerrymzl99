@@ -12,7 +12,8 @@
 
 
 ### 🔭 Current work
-- Pursuing a master's program in Business Analytics at the University of North Texas, working on various projects related to Machine Learning, Data Science, and NLP.
+- Pursuing a master's program in Business Analytics at the University of North Texas.
+- working on various projects related to Machine Learning, Data Science, and NLP.
 - Applying various algorithms and data structures in solving challenges in competitive programming.
 
 ### 🌱 Currently learning
