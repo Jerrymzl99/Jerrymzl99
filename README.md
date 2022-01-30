@@ -8,7 +8,7 @@
         </samp>
 </h3>
 
-### I am an avid business insight, Machine learning, and NLP enthusiast.
+### I am an avid business insights, Machine learning, and NLP enthusiast.
 
 
 ### 🔭 Current work
