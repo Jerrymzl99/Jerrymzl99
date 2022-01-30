@@ -4,7 +4,7 @@
 <!-- Intro  -->
 <h3 align="left">
         <samp> Hey There!, I am
-                <b><a target="_blank" href="https://https://jerrymzl99.github.io/Personal_Web/">Zhelu Mai Jerry.</a></b>
+                <b><a target="_blank" href="https://https://jerrymzl99.github.io/Personal_Web/">Zhelu Mai</a>.</b>
         </samp>
 </h3>
 
@@ -21,25 +21,19 @@
 - Advanced NLP
 - Cloud Computing 
 
-<!-- Details Section-->
-<details align="center">
-    <summary> <samp>&#9776; More</samp></summary>
-    <p align="center">
-        <br>
-        <!-- Activity Widget -->
-        <img alt="Zhelu Mai's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=Jerrymzl99&show_icons=true&theme=swift" />
-        <br>
-        <!-- Social Links -->
-        <p>Find me on</p>
-        <!-- Email -->
-        <a href="mailto:zhelumai@my.unt.edu" target="_blank"><img alt="Outlook"
-                src="https://img.shields.io/badge/Outlook-1877F2?style=flat-square&logo=Outlook&logoColor=white">
-        </a>
-        <!-- Linkedin -->
-        <a href="https://www.linkedin.com/in/zhelu-jerry-mai/" target="_blank"><img alt="Linkedin"
-                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
-        </a>
-    </p>
-</details>
+
 <br>
+<!-- Activity Widget -->
+<img alt="Zhelu Mai's GitHub Stats"
+        src="https://github-readme-stats.vercel.app/api?username=Jerrymzl99&show_icons=true&theme=swift" />
+
+<!-- Social Links -->
+<p>Find me on：</p>
+<!-- Email -->
+<a href="mailto:zhelumai@my.unt.edu" target="_blank"><img alt="Outlook"
+        src="https://img.shields.io/badge/Outlook-1877F2?style=flat-square&logo=Outlook&logoColor=white">
+</a>
+<!-- Linkedin -->
+<a href="https://www.linkedin.com/in/zhelu-jerry-mai/" target="_blank"><img alt="Linkedin"
+        src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
+</a>
