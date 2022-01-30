@@ -3,7 +3,7 @@
 
 <!-- Intro  -->
 <h3 align="left">
-        <samp> Hey There!, I am
+        <samp> Hey There! I am
                 <b><a target="_blank" href="https://https://jerrymzl99.github.io/Personal_Web/">Zhelu Mai</a>.</b>
         </samp>
 </h3>
