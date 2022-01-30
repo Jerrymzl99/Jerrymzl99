@@ -14,7 +14,7 @@
 ### 🔭 Current work
 - Pursuing a master's program in Business Analytics at the University of North Texas.
 - Working on various projects related to Machine Learning, Data Science, and NLP.
-- Applying various algorithms and data structures in solving challenges in competitive programming.
+- Utilizing various algorithms and data structures to solve challenges in competitive programming.
 
 ### 🌱 Currently learning
 - Hadoop, Spark, Hive, Pig
