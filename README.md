@@ -4,7 +4,7 @@
 <!-- Intro  -->
 <h3 align="left">
         <samp> Hey there! I am
-                <b><a target="_blank" href="https://https://jerrymzl99.github.io/Personal_Web/">Zhelu Mai</a>.</b>
+                <b><a target="_blank" href="https://jerrymzl99.github.io/Personal_Web/">Zhelu Mai</a>.</b>
         </samp>
 </h3>
 
