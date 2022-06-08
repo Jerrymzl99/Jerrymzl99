@@ -17,7 +17,7 @@
 - Utilizing various algorithms and data structures to solve challenges in competitive programming.
 
 ### 🌱 Currently learning
-- Hadoop, Spark, Hive, Pig
+- Hadoop, Spark, Hive
 - Advanced NLP
 - Cloud Computing 
 
